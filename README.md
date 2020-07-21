@@ -1,5 +1,17 @@
-More Design Patterns with TS
+# More Design Patterns with TS
 
 It will output the TS files from /src to /build
 
-tsc -w
+The concurrently package run scripts concurrently.
+
+#### Watches for the TS updates :
+
+> tsc -w
+
+#### Nodemon automatically restart the node application when file changes in the directory are detected :
+
+> nodemon build/index.js
+
+### Start the automatic listening and output
+
+> npm start
