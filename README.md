@@ -1,5 +1,7 @@
 # More Design Patterns with TS
 
+This is using the Bubble Sort. It is not the main goal of this project. Sorting is not the focus of this project. Learning is.
+
 It will output the TS files from /src to /build
 
 The concurrently package run scripts concurrently.
